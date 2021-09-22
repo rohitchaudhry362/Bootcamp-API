@@ -4,7 +4,7 @@ Backend API for Bootcamp project to manage bootcamps, courses, reviews, users an
 
 ## Usage
 
-Rename "config/config.env.env" to "config/config.env.yml"
+Rename "config/config.env.env" to "config/config.env"
 and update the values/settings to your own
 
 ## Install Dependencies
@@ -15,14 +15,14 @@ npm install
 
 ## Run app
 
-# Run in dev mode
-
+## Run in dev mode
+```
 npm run dev
-
-# Run in prod mode
-
+```
+## Run in prod mode
+```
 npm start
-
+```
 ## API Documentation
 
 https://documenter.getpostman.com/view/10664016/UUxujA3E
