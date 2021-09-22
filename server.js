@@ -51,7 +51,7 @@ app.use(mongoSanitize());
 
 // Set security headers
 
-app.use(helmet);
+app.use(helmet());
 // Prevent XSS attacks
 app.use(xss());
 
