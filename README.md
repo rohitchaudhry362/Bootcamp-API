@@ -27,6 +27,5 @@ npm start
 
 https://documenter.getpostman.com/view/10664016/UUxujA3E
 
-Change langauge from 'cURL' to 'NodeJS'
 
 - Version: 1.0.0
